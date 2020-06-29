@@ -301,4 +301,7 @@ footer {
     .contentBox h1 {
         font-size: 1rem;
     }
+    .btn .btnD1{
+        font-size: .2rem;
+    }
 }
